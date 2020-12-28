@@ -1,0 +1,6 @@
+Max_Amp:74.50
+Period:0.40
+StartEpochTime:1518945738.618
+StartHumanTime:20180218092218.618
+EndEpochTime:1518945738.818
+EndHumanTime:20180218092218.818
